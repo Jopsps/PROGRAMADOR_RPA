@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dAxt29c5pqlxOcEzR2RZ/PVfqR4lzwrB7rQI46OUyaGclZq18xg6n+OtV4iZxgL1OTI7qi99KCqXxbrSaFcBYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonny\\OneDrive\\Área de Trabalho\\PROGRAMADOR_RPA\\PROGRAMADOR_RPA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonny\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jonny\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jonny\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jonny\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
+    "C:\\Users\\jonny\\.nuget\\packages\\selenium.support\\4.17.0\\selenium.support.4.17.0.nupkg.sha512",
+    "C:\\Users\\jonny\\.nuget\\packages\\selenium.webdriver\\4.17.0\\selenium.webdriver.4.17.0.nupkg.sha512",
+    "C:\\Users\\jonny\\.nuget\\packages\\selenium.webdriver.chromedriver\\121.0.6167.8500\\selenium.webdriver.chromedriver.121.0.6167.8500.nupkg.sha512"
+  ],
+  "logs": []
+}
